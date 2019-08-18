@@ -20,7 +20,7 @@ while True:
 count+= 1
 print("function is working\n")
 time.sleep(1)
-
+print("it is just to test weather it is working or not\n")
 if count == 10:
     exit(1)
 
