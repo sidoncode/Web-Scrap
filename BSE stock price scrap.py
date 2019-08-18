@@ -17,7 +17,7 @@ while True:
         print("Good Connection")
     elif r.status_code == 400:
         print("Bad gateway")
-count+= 1
+    count+= 1
 print("function is working\n")
 time.sleep(1)
 if count == 10:
