@@ -19,7 +19,7 @@ while True:
         print("Bad gateway")
 count+= 1
 print("function is working\n")
-time.sleep(10)
+time.sleep(1)
 if count == 10:
     exit(1)
 
